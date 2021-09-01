@@ -1,9 +1,9 @@
 # First_Template_HTML-CSS
-## Live Preview: 
+## Live Preview: https://kareem2002shimes.github.io/First_Template_HTML-CSS/
 
 Coded by - [kareem shimes]
 
-![](/)
+![](/template1.PNG)
 
 ## Project Details
 I made first template website using only html &amp; css
